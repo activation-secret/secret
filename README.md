@@ -1,6 +1,7 @@
 # ACTIVATION SECRET
 
 > [!IMPORTANT]
+
 > Copy and paste the full command and run powershell as admin.
 
 > Copie y pegue el comando completo y ejecute powershell como administrador.
