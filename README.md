@@ -1,6 +1,5 @@
 > [!IMPORTANT]
->  Run CMD/powershell as Admin.
-> [!IMPORTANT]
+>  Run CMD/powershell as Admin. ||
 >  Copy and paste the full activation secret.
 > 
 > [!NOTE]
